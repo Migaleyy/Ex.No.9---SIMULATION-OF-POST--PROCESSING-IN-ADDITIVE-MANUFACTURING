@@ -46,9 +46,17 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+## Support Removal Process:
+![281952959-82aa2b33-51f0-40f0-a8c9-3dd801b48f65](https://github.com/Sudharsanram/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393980/e53af1b6-28a6-4dac-82a3-f5f0349bc9f8)
 
-### Name:
-### Register Number:
+## UV Curing of 3D printed part:
+![281952985-5483c509-154e-411e-b19a-1433fe5164f5](https://github.com/Sudharsanram/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393980/851cee5d-77ae-44d0-b41d-6db31b478b8d)
+
+## Heat Treatment of 3D printed part:
+![281953007-13eb60dd-7bb9-4d00-9fbe-9061884533cd](https://github.com/Sudharsanram/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393980/8d0ca895-a11d-4726-ac0e-fd4d5650b54f)
+
+### Name: Migal G Arunadann
+### Register Number: 212222110025
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
